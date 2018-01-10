@@ -1,5 +1,12 @@
 <?php
+require_once('coluna.php');
+session_start();
+$num = $_POST['jogadores'];
+for ($i=1; $1>$jogador; )
 
+?>
+<h1>O Jogador <?php echo $__rand ?> foi o Vencedor com <?php $pontos ?> pontos</h1>
+<?php
 /*
 
 Achou que ganharia aquele que colocou o maior ou o menor número??? Errado! Esse jogo é trapaceiro.
